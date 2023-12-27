@@ -12,28 +12,28 @@ function App() {
   let fullstack =[
     {
       id: 1,
-      title: "Top 10 Tools Every Full-Stack Developer Should Master in 2024",
-      src: "https://i.postimg.cc/yxgZTz5h/html-css-collage-concept-with-person.jpg",
+      title: "Top Skills To Become a Full-Stack Developer in 2024",
+      src: "https://i.postimg.cc/B64WDxY4/image-6.webp",
       content:
-        "As a full-stack developer, having the right set of tools is crucial for your success",
+        "Are you interested in becoming a great full-stack developer? If so, then you’re at the",
       date: "3 August 2023",
       comments: "No comments",
     },
     {
       id: 2,
-      title: "The Ultimate Guide to Real-World Full-Stack Development Applications",
-      src: "https://www.guvi.in/blog/wp-content/uploads/2023/08/The-Ultimate-Guide-to-Real-World-Full-Stack-Development-Applications-1536x804.png",
+      title: "Top 10 Full-Stack Developer Frameworks in 2024",
+      src: "https://www.guvi.in/blog/wp-content/uploads/2023/07/html-css-collage-concept-with-person.jpg",
       content:
-        "Full-stack development has become increasingly popular in recent years, with companies seeking professionals who can",
+        "In the ever-evolving world of technology, the demand for full stack developers is at an",
       date: "27 July 2023",
       comments: "No comments",
     },
     {
       id: 3,
-      title: "Best Ways to Learn Full Stack Development in 2024",
-      src: "https://www.guvi.in/blog/wp-content/uploads/2023/07/best-way-to-learn-full-stack-development-1536x804.webp",
+      title: "Best Full-Stack Development Project Ideas in 2024",
+      src: "https://i.postimg.cc/prLgcPMS/person-front-computer-working-html.jpg",
       content:
-        "Full stack development is and will be a promising and in-demand career in the upcoming",
+        "When you give your resume to any potential recruiter, the first thing that they check",
       date: "26 July 2023",
       comments: "No comments",
     },
@@ -70,7 +70,7 @@ function App() {
     {
       id: 7,
         title: "10 Best Data Science Frameworks in 2024",
-        src: "https://www.guvi.in/blog/wp-content/uploads/2023/01/paper-analysis-2-1536x1024.jpg",
+        src: "https://i.postimg.cc/Px4gMP9Z/best-data-science-frameworks-1536x804.webp",
         content:
           "Does data scientists fascinate you? If yes, you must definitely know about data science frameworks.",
         date: "5 August 2023",
@@ -79,7 +79,7 @@ function App() {
     {
       id: 8,
         title: "A Complete Data Scientist Roadmap for Beginners",
-        src: "https://www.guvi.in/blog/wp-content/uploads/2023/07/13311397_v617batch2-kul-05-technology-1-1536x1024.jpg",
+        src: "https://i.postimg.cc/q79XgTL3/13311397-v617batch2-kul-05-technology-1-1536x1024.jpg",
         content:
           "Do you want to pursue a career in Data Science? If so then you must’ve",
         date: "28 July 2023",
@@ -88,7 +88,7 @@ function App() {
     {
       id: 9,
         title: "A Profound Data Scientist’s Career Path 2024",
-        src: "https://www.guvi.in/blog/wp-content/uploads/2022/12/image-15.png",
+        src: "https://i.postimg.cc/CKZsF1j0/image-15.png",
         content:
           "All kinds of organizations ranging from retail to government, to healthcare heavily depend on data scientists.",
         date: "27 July 2023",
@@ -126,7 +126,7 @@ function App() {
     {
       id: 13,
       title: "What is Cybersecurity? Importance and its uses & the growing challenges in 2023!",
-      src: "https://www.guvi.in/blog/wp-content/uploads/2022/11/Teal-Illustration-Digital-Business-Blog-Banner-1-1536x864.png",
+      src: "https://i.postimg.cc/NFyx00hm/Types-of-Cyber-Security-Attacks-and-How-to-Minimize-the-Impact-1536x480.jpg",
       content:
         "Look around today, you will witness that we are more reliant on technology and devices",
       date: "04 December 2023",
@@ -135,7 +135,7 @@ function App() {
     {
       id: 14,
       title: "Is coding required for cybersecurity? If yes, how crucial is coding for cybersecurity?",
-      src: "https://www.guvi.in/blog/wp-content/uploads/2022/06/8bfd01c18be1b5059bc0d7770d9dabf1.gif",
+      src: "https://i.postimg.cc/xTzRDq3S/Teal-Illustration-Digital-Business-Blog-Banner-1-1536x864.webp",
       content:
         "Many people ask how important is coding for cybersecurity, and the lawyerly answer is: Well,",
       date: "02 December 2023",
