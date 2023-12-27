@@ -12,28 +12,28 @@ function App() {
   let fullstack =[
     {
       id: 1,
-      title: "Top Skills To Become a Full-Stack Developer in 2024",
-      src: "https://www.guvi.in/blog/wp-content/uploads/2023/07/professional-programmer-working-late-dark-office.jpg",
+      title: "Top 10 Tools Every Full-Stack Developer Should Master in 2024",
+      src: "https://www.guvi.in/blog/wp-content/uploads/2023/08/The-Top-10-Tools-Every-Full-Stack-Developer-Should-Master-in-2023-1536x804.png",
       content:
-        "Are you interested in becoming a great full-stack developer? If so, then you’re at the",
+        "As a full-stack developer, having the right set of tools is crucial for your success",
       date: "3 August 2023",
       comments: "No comments",
     },
     {
       id: 2,
-      title: "Top 10 Full-Stack Developer Frameworks in 2024",
-      src: "https://www.guvi.in/blog/wp-content/uploads/2023/07/html-css-collage-concept-with-person.jpg",
+      title: "The Ultimate Guide to Real-World Full-Stack Development Applications",
+      src: "https://www.guvi.in/blog/wp-content/uploads/2023/08/The-Ultimate-Guide-to-Real-World-Full-Stack-Development-Applications-1536x804.png",
       content:
-        "In the ever-evolving world of technology, the demand for full stack developers is at an",
+        "Full-stack development has become increasingly popular in recent years, with companies seeking professionals who can",
       date: "27 July 2023",
       comments: "No comments",
     },
     {
       id: 3,
-      title: "Best Full-Stack Development Project Ideas in 2024",
-      src: "https://www.guvi.in/blog/wp-content/uploads/2023/07/person-front-computer-working-html.jpg",
+      title: "Best Ways to Learn Full Stack Development in 2024",
+      src: "https://www.guvi.in/blog/wp-content/uploads/2023/07/best-way-to-learn-full-stack-development-1536x804.webp",
       content:
-        "When you give your resume to any potential recruiter, the first thing that they check",
+        "Full stack development is and will be a promising and in-demand career in the upcoming",
       date: "26 July 2023",
       comments: "No comments",
     },
