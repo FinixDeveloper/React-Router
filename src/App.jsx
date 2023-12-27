@@ -22,7 +22,7 @@ function App() {
     {
       id: 2,
       title: "Top 10 Full-Stack Developer Frameworks in 2024",
-      src: "https://www.guvi.in/blog/wp-content/uploads/2023/07/html-css-collage-concept-with-person.jpg",
+      src: "https://i.postimg.cc/yxgZTz5h/html-css-collage-concept-with-person.jpg",
       content:
         "In the ever-evolving world of technology, the demand for full stack developers is at an",
       date: "27 July 2023",
