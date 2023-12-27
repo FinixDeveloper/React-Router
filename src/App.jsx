@@ -13,7 +13,7 @@ function App() {
     {
       id: 1,
       title: "Top 10 Tools Every Full-Stack Developer Should Master in 2024",
-      src: "https://www.guvi.in/blog/wp-content/uploads/2023/08/The-Top-10-Tools-Every-Full-Stack-Developer-Should-Master-in-2023-1536x804.png",
+      src: "https://i.postimg.cc/yxgZTz5h/html-css-collage-concept-with-person.jpg",
       content:
         "As a full-stack developer, having the right set of tools is crucial for your success",
       date: "3 August 2023",
