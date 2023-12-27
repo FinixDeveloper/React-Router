@@ -152,7 +152,7 @@ function App() {
     },
     
       {
-        id: 7,
+        id: 16,
         title: "Non-Coding Jobs in Cybersecurity: A Comprehensive Guide",
         src: "https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Non-Coding-Jobs-in-Cybersecurity.webp",
         content:
@@ -161,7 +161,7 @@ function App() {
         comments: "No comments",
       },
       {
-        id: 8,
+        id: 17,
         title: "What Is Hacking? Types of Hacking & More",
         src: "https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-What-Is-Hacking_-Types-of-Hacking-More.webp",
         content:
@@ -170,7 +170,7 @@ function App() {
         comments: "No comments",
       },
       {
-        id: 9,
+        id: 18,
         title: "Non-Coding Jobs in Cybersecurity: A Comprehensive Guide",
         src: "https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Non-Coding-Jobs-in-Cybersecurity.webp",
         content:
@@ -182,7 +182,7 @@ function App() {
 
   let career =[
     {
-      id: 10,
+      id: 19,
       title: "Top 5 IT Jobs for Economics Students",
       src: "https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Top-IT-Jobs-for-Economics-Students.webp",
       content:
@@ -191,7 +191,7 @@ function App() {
       comments: "No comments",
     },
     {
-      id: 11,
+      id: 20,
       title: "Top IT Jobs for Commerce Students: A Lucrative Career Path",
       src: "https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Top-IT-Jobs-for-Commerce-Students.webp",
       content:
@@ -200,7 +200,7 @@ function App() {
       comments: "No comments",
     },
     {
-      id: 12,
+      id: 21,
       title: "Automation Test Engineer Resume: 10 Important Things To Consider",
       src: "https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Automation-Test-Engineer-Resume-Important-Things-To-Consider.webp",
       content:
